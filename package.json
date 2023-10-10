@@ -1,0 +1,14 @@
+{
+  "name": "restuarant-backend",
+  "version": "1.0.0",
+  "description": "jsonfile for backend restuarent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jithu",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

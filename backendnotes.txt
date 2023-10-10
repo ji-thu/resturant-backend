@@ -1,0 +1,16 @@
+
+
+
+
+             BACK END CREATION OF RESTUARANT
+            ------------------------------------
+    1. create a folder restuarant-backend
+
+    2. create package.json file npm init
+
+    3. install json server - npm i json-server (node modules,package-lock.json)
+
+    4. create index.js file(apply the steps to create )
+       
+    5. run server node index.js
+    6.
